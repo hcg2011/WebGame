@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameBox</string>
+    <string name="kuai_wan">Play</string>
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_rank">Rank</string>
+    <string name="bottom_nav_category">My</string>
+
+    <string name="close_hint">Click again to exit the little game</string>
+    <string name="start_play">Play</string>
+
+</resources>

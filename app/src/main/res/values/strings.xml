@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GameBox</string>
+    <string name="kuai_wan">快玩</string>
+    <string name="title_home">PrizeWebGame</string>
+    <string name="title_type_1">游戏</string>
+    <string name="title_type_2">小比赛</string>
+    <string name="title_type_3">找人玩</string>
+    <string name="title_type_4">我的</string>
+
+    <string name="start_play">开始游戏</string>
+
+    <string name="play_count">人在玩</string>
+    <string name="play_time">玩过</string>
+
+</resources>
